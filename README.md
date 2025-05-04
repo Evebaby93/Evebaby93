@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Template -->
 
-<h1 align="center">Hi there, I'm [Your Name]!</h1>
+<h1 align="center">Hi there, I'm Evelyn Alamba!</h1>
 <h3 align="center">Frontend Developer | ALX Learner | Aspiring Tech Leader</h3>
 
 <p align="center">
