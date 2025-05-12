@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     Passionate about building clean, accessible, and impactful user experiences.<br>
-    On a mission to become one of the <strong>successful women in tech</strong> and inspire others to rise.
+    On a mission to become one of the <strong>successful women in tech</strong> and inspire others to rise up.
   </em>
 </p>
 
